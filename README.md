@@ -28,5 +28,5 @@ Também tenho Linkedin da uma olhada lá, tem um pouco mais sobre mim: https://w
   <a href="https://www.linkedin.com/in/ana-luiza-guimar%C3%A3es-luiz%C3%A3o-5082501b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  
+  ![Snake animation](https://github.com/analuiza2102/analuiza2102/blob/output/github-contribution-grid-snake.svg)
   
