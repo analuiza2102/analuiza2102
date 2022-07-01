@@ -1,6 +1,6 @@
 Oiii sou a Ana Luiza,
 
-👀-Sou desenvolvedora de HTML, CSS |
+👀- HTML, CSS, GIT, GITHUB |
 
 🌱-No momento estou aprofundando meus conhecimentos nas linguagens que já tenho conhecimento para aperfeiçoamento, estou estudando agora sobre sql e js|
 
