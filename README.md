@@ -1,6 +1,6 @@
 Oiii sou a Ana Luiza,
 
-👀- HTML, CSS, GIT, GITHUB |
+👀- HTML, CSS, GIT, JAVASCRIPT, GITHUB |
 
 🌱-No momento estou aprofundando meus conhecimentos nas linguagens que já tenho conhecimento para aperfeiçoamento e concluindo minha formação como Dev Front-End, com foco na minha carreira em busca de um emprego na area |
 
