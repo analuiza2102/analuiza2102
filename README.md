@@ -1,8 +1,8 @@
 Oiii sou a Ana Luiza,
 
-👀- HTML, CSS, GIT, JAVASCRIPT, GITHUB, GIT, BOOTSTRAP | DESENVOLVEDORA FRONT-END
+👀- HTML, CSS, GIT, JAVASCRIPT, GITHUB, GIT, BOOTSTRAP, FIGMA | DESENVOLVEDORA FRONT-END
 
-🌱-No momento estou aprofundando meus conhecimentos nas linguagens que já tenho conhecimento para aperfeiçoamento, com foco na minha carreira em busca de um emprego na area |
+🌱-No momento estou aprofundando meus conhecimentos nas linguagens que já tenho conhecimento para aperfeiçoamento e aprendendo a utilizar dos frameworks, com foco na minha carreira em busca de um emprego na area |
 
 💞️-Tenho interesse em trabalhar com a área e estou fazendo o possível para o aprendizado, caso queira saber mais estou a disposição nos endereçõs abaixo! |
 
