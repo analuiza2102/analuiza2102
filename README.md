@@ -9,6 +9,20 @@ Oiii sou a Ana Luiza,
 📫-Como me encontrar - cel: (14)998162191 |
 Também tenho Linkedin da uma olhada lá, tem um pouco mais sobre mim: https://www.linkedin.com/in/ana-luiza-guimar%C3%A3es-luiz%C3%A3o-5082501b8/ |
 
+
+
+
+Hi, I'm Ana Luiza,
+
+👀- HTML, CSS, GIT, JAVASCRIPT, GITHUB, GIT, BOOTSTRAP, FIGMA | FRONT-END DEVELOPER
+
+🌱-At the moment I'm deepening my knowledge in the languages that I already have knowledge for improvement and learning to use frameworks, focusing on my career in search of a job in the area |
+
+💞️-I'm interested in working with the area and I'm doing my best to learn, if you want to know more I'm available at the addresses below! |
+
+📫-How to find me - cell: (14)998162191 |
+I also have Linkedin, take a look there, there's a little more about me: https://www.linkedin.com/in/ana-luiza-guimar%C3%A3es-luiz%C3%A3o-5082501b8/ |
+
 <div align="center">
   <a href="https://github.com/analuiza2102">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analuiza2102&show_icons=true&theme=cobalt&include_all_commits=false&count_private=true"/>
