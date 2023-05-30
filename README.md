@@ -1,5 +1,8 @@
 Oiii sou a Ana Luiza,
 
+
+Atualmente estou cursando ciência da computação na Universidade Paulista- Unip; Bauru, Sp.
+
 👀- HTML, CSS, GIT, JAVASCRIPT, GITHUB, GIT, BOOTSTRAP, FIGMA | DESENVOLVEDORA FRONT-END
 
 🌱-No momento estou aprofundando meus conhecimentos nas linguagens que já tenho conhecimento para aperfeiçoamento e aprendendo a utilizar dos frameworks, com foco na minha carreira em busca de um emprego na area |
