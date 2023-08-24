@@ -23,4 +23,5 @@ Também tenho Linkedin da uma olhada lá, tem um pouco mais sobre mim: https://w
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=analuiza2102&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analuiza2102&layout=compact)](https://github.com/analuiza2102/github-readme-stats)
   
