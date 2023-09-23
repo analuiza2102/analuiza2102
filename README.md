@@ -8,7 +8,7 @@ Oiii sou a Ana Luiza,
 
 🌟- Tenho experiência em desenvolvimento front-end, com foco em tecnologias como React, que me permite criar aplicações interativas e dinâmicas para proporcionar experiências excepcionais aos usuários.
 
-💼 - Atualmente, estou aproveitando a oportunidade de estagiar na área de Tecnologia da Informação na ACCO Brands - Tilibra Brasil. Essa experiência tem me proporcionado insights valiosos e a chance de aplicar meus conhecimentos em um ambiente profissional.
+💼 - Atualmente, estou aproveitando a oportunidade de estagiar na área de Tecnologia da Informação na ACCO Brands - Tilibra Brasil. Essa experiência tem me proporcionado insights valiosos e a chance de aprender em um ambiente profissional.
 
 🌐 - Estou sempre em busca de aprender mais e expandir meu horizonte na área de desenvolvimento front-end. Se você compartilha dessa paixão pela tecnologia ou tem interesse em colaborar, ficarei feliz em conectar-me e trocar ideias!
 
