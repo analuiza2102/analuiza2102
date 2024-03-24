@@ -1,12 +1,12 @@
 Oiii sou a Ana Luiza,
 
-👩‍💻 - Olá, seja bem-vindo(a) ao meu perfil! Eu sou estudante de Ciência da Computação na Universidade Paulista - Unip, localizada em Bauru, SP.|
+👩‍💻 - Olá, seja bem-vindo(a) ao meu perfil! Eu sou estudante de Ciência da Computação na Universidade Paulista - Unip, localizada em Bauru, SP.
 
-📚 - Minhas habilidades abrangem uma variedade de tecnologias focadas no momento para o Front. Além disso, sou uma entusiasta do Git e GitHub, o que me permite colaborar e compartilhar projetos de forma eficaz.|
+📚 - Minhas habilidades abrangem uma variedade de tecnologias focadas no momento para o Front. Além disso, sou uma entusiasta do Git e GitHub, o que me permite colaborar e compartilhar projetos de forma eficaz.
 
-🚀 - Também sou apaixonado(a) por criar interfaces incríveis, e para isso, utilizo ferramentas como Bootstrap e Figma, garantindo que as minhas criações sejam não apenas funcionais, mas também visualmente atraentes. |
+🚀 - Também sou apaixonado(a) por criar interfaces incríveis, e para isso, utilizo ferramentas como Bootstrap e Figma, garantindo que as minhas criações sejam não apenas funcionais, mas também visualmente atraentes. 
 
-🌟- Tenho experiência em desenvolvimento front-end, com foco em tecnologias como React, que me permite criar aplicações interativas e dinâmicas para proporcionar experiências excepcionais aos usuários.
+🌟- Tenho experiência em desenvolvimento FrontEnd, com foco em tecnologias como React, que me permite criar aplicações interativas e dinâmicas para proporcionar experiências excepcionais aos usuários.
 
 💼 - Atuo no momento como Analista de Suporte JR N1 para a STONE CO - Linx, Brasil.
 
