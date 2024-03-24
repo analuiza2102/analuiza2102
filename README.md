@@ -2,13 +2,13 @@ Oiii sou a Ana Luiza,
 
 👩‍💻 - Olá, seja bem-vindo(a) ao meu perfil! Eu sou estudante de Ciência da Computação na Universidade Paulista - Unip, localizada em Bauru, SP.|
 
-📚 - Minhas habilidades abrangem uma variedade de tecnologias e linguagens, incluindo HTML, CSS e JavaScript - as bases da web moderna. Além disso, sou uma entusiasta do Git e GitHub, o que me permite colaborar e compartilhar projetos de forma eficaz.|
+📚 - Minhas habilidades abrangem uma variedade de tecnologias focadas no momento para o Front. Além disso, sou uma entusiasta do Git e GitHub, o que me permite colaborar e compartilhar projetos de forma eficaz.|
 
 🚀 - Também sou apaixonado(a) por criar interfaces incríveis, e para isso, utilizo ferramentas como Bootstrap e Figma, garantindo que as minhas criações sejam não apenas funcionais, mas também visualmente atraentes. |
 
 🌟- Tenho experiência em desenvolvimento front-end, com foco em tecnologias como React, que me permite criar aplicações interativas e dinâmicas para proporcionar experiências excepcionais aos usuários.
 
-💼 - Atualmente, estou aproveitando a oportunidade de estagiar na área de Tecnologia da Informação na ACCO Brands - Tilibra Brasil. Essa experiência tem me proporcionado insights valiosos e a chance de aprender em um ambiente profissional.
+💼 - Atuo no momento como Analista de Suporte JR N1 para a STONE CO - Linx, Brasil.
 
 🌐 - Estou sempre em busca de aprender mais e expandir meu horizonte na área de desenvolvimento front-end. Se você compartilha dessa paixão pela tecnologia ou tem interesse em colaborar, ficarei feliz em conectar-me e trocar ideias!
 
