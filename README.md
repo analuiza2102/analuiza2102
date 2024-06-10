@@ -8,9 +8,9 @@ Oiii sou a Ana Luiza,
 
 🌟- Tenho experiência em desenvolvimento FrontEnd, com foco em tecnologias como React, que me permite criar aplicações interativas e dinâmicas para proporcionar experiências excepcionais aos usuários.
 
-💼 - Atuo no momento como Analista de Suporte JR N1 para a STONE CO - Linx, Brasil.
+💼 - Atuo no momento como Analista de Desenvolvimento de Sistemas - ILUMAC | SP.
 
-🌐 - Estou sempre em busca de aprender mais e expandir meu horizonte na área de desenvolvimento front-end. Se você compartilha dessa paixão pela tecnologia ou tem interesse em colaborar, ficarei feliz em conectar-me e trocar ideias!
+🌐 - Estou sempre em busca de aprender mais e expandir meu horizonte na área de desenvolvimento web. Se você compartilha dessa paixão pela tecnologia ou tem interesse em colaborar, ficarei feliz em conectar-me e trocar ideias!
 
 Sinta-se à vontade para explorar meus repositórios e projetos. Seja bem-vindo(a) à minha jornada no mundo da programação e do desenvolvimento! 🎉👩‍💻
 
