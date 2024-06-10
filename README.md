@@ -15,7 +15,7 @@ Oiii sou a Ana Luiza,
 Sinta-se à vontade para explorar meus repositórios e projetos. Seja bem-vindo(a) à minha jornada no mundo da programação e do desenvolvimento! 🎉👩‍💻
 
 
-📫-Como me encontrar - cel: (14)998162191 |
+📫-Como me encontrar - email: aninhaguiiimaraes2102@gmail.com | 
 Também tenho Linkedin da uma olhada lá, tem um pouco mais sobre mim: https://www.linkedin.com/in/ana-luiza-guimar%C3%A3es-luiz%C3%A3o-5082501b8/ |
 
 
