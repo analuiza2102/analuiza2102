@@ -8,7 +8,7 @@ Oiii sou a Ana Luiza,
 
 🌟- Tenho experiência em desenvolvimento FrontEnd, com foco em tecnologias como React, que me permite criar aplicações interativas e dinâmicas para proporcionar experiências excepcionais aos usuários.
 
-💼 - Atuo no momento como Analista de Desenvolvimento de Sistemas - ILUMAC | SP.
+💼 - Atuo no momento como Coordanora de TI e Marketing Digital - Hospital Veterinário Popular Pet | SP.
 
 🌐 - Estou sempre em busca de aprender mais e expandir meu horizonte na área de desenvolvimento web. Se você compartilha dessa paixão pela tecnologia ou tem interesse em colaborar, ficarei feliz em conectar-me e trocar ideias!
 
