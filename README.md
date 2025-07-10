@@ -98,7 +98,19 @@ Atuo com desenvolvimento web, análise de dados e gestão de projetos. Também s
 <a href="https://codepen.com/analuiza2102" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
+
+<div align="center">
+            <a href="https://ko-fi.com/analuizaguimaraesluizao" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a>
+</div>
+<br />
+
+
   
 
 <br/>  
