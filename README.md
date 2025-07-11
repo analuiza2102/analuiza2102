@@ -5,10 +5,6 @@
 
 ### <div align="center">Sou Ana Luiza, desenvolvedora full-stack, apaixonada por tecnologia, inovação e boas ideias. 💻✨ 
 Atuo com desenvolvimento web, análise de dados e gestão de projetos. Também sou cofundadora da Insumovet, uma distribuidora de insumos veterinários. </div>  
-  
-
-- 🚀 Atualmente, estou desenvolvendo o [Painel de Agendamento](https://analuiza2102.github.io/Painel-de-Agendamento/), além de trabalhar em um CMS interativo para clínicas e um sistema de feedback interno para empresas.  
-  
 
 - 📚 Atualmente, estou me aprofundando em JavaScript com foco em React, buscando criar interfaces mais dinâmicas e eficientes. Também venho estudando UX/UI com Figma, para entregar experiências mais intuitivas e centradas no usuário. Paralelamente, estou me dedicando ao estudo de arquitetura de sistemas e metodologias ágeis, visando uma base sólida para projetos escaláveis e bem estruturados.  
   
