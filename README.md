@@ -100,14 +100,15 @@ Atuo com desenvolvimento web, análise de dados e gestão de projetos. Também s
 </a>  
 </div>
 
-<div align="center">
-            <a href="https://ko-fi.com/analuizaguimaraesluizao" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a>
-</div>
+## ☕ Apoie meu trabalho
+
+Se você curte meus projetos e quer apoiar meu trabalho, considere me oferecer um cafézinho no Ko-fi! Isso me ajuda a continuar criando com dedicação 💙
+
+  <div align="center">
+    <a href="https://ko-fi.com/analuizaguimaraesluizao" target="_blank">
+      <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+    </a>
+  </div>
 <br />
 
 
