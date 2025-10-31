@@ -113,14 +113,3 @@ Se você curte meus projetos e quer apoiar meu trabalho, considere me oferecer u
     </a>
   </div>
 <br />
-
-
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=analuiza2102&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
